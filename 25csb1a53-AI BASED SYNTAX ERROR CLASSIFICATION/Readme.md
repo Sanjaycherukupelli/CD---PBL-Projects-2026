@@ -54,11 +54,11 @@ An AI-driven C++ syntax error classification, semantic inspection, CWE security 
 - **ML Evaluation & Benchmark Graphs:** `MID_FIGURE_2_PERFORMANCE.png`, `MID_FIGURE_3_PERFORMANCE.png`, `FIGURE_2_PERFORMANCE_GRAPHS.png`, `FIGURE_3_TRAINING_AND_ROC_GRAPHS.png`, `confusion_matrix.png`, `feature_importance.png`, `codebert_benchmark_comparison.png`, `codebert_confusion_matrix.png`
 
 ### 4. Screen Recordings (Google Drive Link)
-Because both demo screen recordings exceed GitHub's file size limit (>100 MB), they are referenced externally per submission instructions (set Google Drive sharing to **Anyone at NITW (`nitw.ac.in`) with the link**):
+Because both demo screen recordings exceed GitHub's file size limit (>100 MB), they are hosted on Google Drive (accessible with NITW mail) per submission guidelines:
 
 - **Before-update screen recording:** `Agentic AI — C++ Code Analysis Platform v2 - Google Chrome 2026-11-18 23-55-03.mp4` (214.04 MB)
 - **After-update screen recording:** `after update scrren record.mp4` (150.92 MB)
-- **Google Drive Link:** _[Add NITW-accessible Google Drive link here]_
+- **Google Drive Link:** https://drive.google.com/drive/folders/1LakeVGXlYBNPjQEXVxwKN-BZ4PO0y3hB?usp=drive_link
 
 ---
 
